@@ -2,7 +2,7 @@
 
 ### 1.Homework:
 - Transformation of 'sea.hdr' image to get better image quality.
-- Selective decolorisation of images 'marlyn.jpg' and 'street.jpg'.
+- Selective decolorization of images 'marlyn.jpg' and 'street.jpg'.
 - Implementation of bilateral filter for image smoothing and noise reduction.
 	
 ### 2.Homework:
