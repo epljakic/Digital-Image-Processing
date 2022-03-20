@@ -1,4 +1,4 @@
-# Digital-Image-Processing
+# Digital image processing
 
 ### 1.Homework:
 - Transformation of 'sea.hdr' image to get better image quality.
